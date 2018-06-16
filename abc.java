@@ -10,5 +10,4 @@ a=Integer.parseInt(br.readLine());
 b=Integer.parseInt(br.readLine());
 c = a+b;
 System.out.println("\nSum of two numbers:"+ c);
-}
-}
+
